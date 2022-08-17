@@ -6,7 +6,7 @@ Senior Software Engineer
 I am a really big fan of the Noble Art of Maintenance Programming over time and code readability and hungry to create something that matters. The pressure is not a limitation, but a trigger to work harder to achieve my goals.  
 * 🌍  I'm based in Verona, Italy 
 * 🖥️  See my portfolio at [MyWebsite](http://www.andreagirardi.it) 
-* 🤝  I'm open to collaborating on Java and/or R projects 
+* 🤝  I'm open to collaborating on Java and/or Python / R projects 
 * ⚡  For the money, for the glory, and for the fun. Mostly for the money.
 
 <a href="https://www.twitter.com/bazingaaaa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/bazingaaaa?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
